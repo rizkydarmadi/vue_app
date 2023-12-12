@@ -80,7 +80,6 @@
           </div>
         </div>
       </div>
-      <h1 class="block text-lg font-medium">This is a right component</h1>
     </div>
   </div>
 </template>
